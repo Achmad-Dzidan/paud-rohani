@@ -482,7 +482,7 @@ section#tenaga-pendidik {
 
 #alumni {
   background-color: #15477a;
-  /* padding: 80px 0; */
+  padding: 20px;
 }
 
 #alumni .section-title h2 {
@@ -610,6 +610,7 @@ section#tenaga-pendidik {
 #ekstrakulikuler {
   margin-top: 50px;
   background-color: #ddd;
+  padding: 20px;
 }
 
 #ekstrakulikuler .section-title {
