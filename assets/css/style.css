@@ -621,19 +621,13 @@ section#tenaga-pendidik {
   padding: 40px;
 }
 
-/* #ekstrakulikuler .col-md-4 {
-  padding: 0 5px;
-} */
-
 #ekstrakulikuler .section-body-item {
-  /* display: flex; */
   background-color: #15477a;
   border-radius: 5px;
   padding: 20px;
   color: #f2c808;
   height: 100px;
   font-size: 25px;
-  /* box-sizing: border-box; */
 }
 
 #ekstrakulikuler .section-body-item h4 {

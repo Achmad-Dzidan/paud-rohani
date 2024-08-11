@@ -36,7 +36,7 @@ $(document).ready(function () {
     smartSpeed: 800,
     responsive: {
       0: {
-        items: 2,
+        items: 1,
       },
       769: {
         items: 3,
