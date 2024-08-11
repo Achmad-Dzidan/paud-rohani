@@ -1,4 +1,9 @@
 $(document).ready(function () {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth",
+  });
+
   $("#slider-hero").owlCarousel({
     loop: true,
     nav: true,
@@ -31,12 +36,10 @@ $(document).ready(function () {
     smartSpeed: 800,
     responsive: {
       0: {
-        // Untuk layar 0px hingga 768px
-        items: 2, // Tampilkan 2 item
+        items: 2,
       },
       769: {
-        // Untuk layar di atas 768px
-        items: 3, // Tampilkan 3 item
+        items: 3,
       },
     },
   });

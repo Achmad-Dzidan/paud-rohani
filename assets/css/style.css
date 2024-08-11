@@ -485,6 +485,10 @@ section#tenaga-pendidik {
   padding: 20px;
 }
 
+#alumni .section-title {
+  padding: 20px;
+}
+
 #alumni .section-title h2 {
   color: #fff;
   text-align: center;
@@ -617,13 +621,17 @@ section#tenaga-pendidik {
   padding: 40px;
 }
 
+/* #ekstrakulikuler .col-md-4 {
+  padding: 0 5px;
+} */
+
 #ekstrakulikuler .section-body-item {
   /* display: flex; */
   background-color: #15477a;
   border-radius: 5px;
   padding: 20px;
   color: #f2c808;
-  height: 200px;
+  height: 100px;
   font-size: 25px;
   /* box-sizing: border-box; */
 }
@@ -870,6 +878,17 @@ footer .sosmed li a:hover {
 
   #topbar li a {
     padding: 0;
+  }
+
+  #topbar .top-contact li.hide {
+    display: none;
+  }
+
+  #slider-hero-nav .owl-prev,
+  #slider-hero-nav .owl-next {
+    top: 50%;
+    padding: 10px 15px;
+    font-size: 10px;
   }
 
   #sambutan .row {
